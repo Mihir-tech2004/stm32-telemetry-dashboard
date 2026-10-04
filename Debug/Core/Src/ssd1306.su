@@ -1,0 +1,6 @@
+../Core/Src/ssd1306.c:70:13:WriteCmd	32	static
+../Core/Src/ssd1306.c:74:6:SSD1306_Init	16	static
+../Core/Src/ssd1306.c:99:6:SSD1306_Clear	8	static
+../Core/Src/ssd1306.c:103:6:SSD1306_UpdateScreen	32	static
+../Core/Src/ssd1306.c:112:6:SSD1306_GotoXY	16	static
+../Core/Src/ssd1306.c:117:6:SSD1306_Puts	24	static

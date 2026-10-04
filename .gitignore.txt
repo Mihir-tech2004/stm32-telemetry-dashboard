@@ -1,0 +1,8 @@
+# Build folders ignore karo (ye 100-200 MB faltu space lete hain)
+Debug/
+Release/
+
+# Temporary IDE workspace files
+.settings/
+*.launch
+*.log
